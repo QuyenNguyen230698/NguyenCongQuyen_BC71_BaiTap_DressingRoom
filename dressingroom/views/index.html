@@ -18,6 +18,25 @@
     />
 
     <link rel="stylesheet" href="./../assets/css/style.css" />
+    <style>
+      /* .nav-pills .nav-item {
+        width: 135px;
+      } */
+      .card-body {
+        padding: 0;
+      }
+      .card-columns .card {
+        margin-bottom: 0;
+        padding: 20px;
+        
+      }
+      .nav-tabs .nav-link:hover ,
+      .nav-tabs .nav-link:focus {
+        background-color: #007bff;
+        color: white;
+        
+      }
+    </style>
   </head>
   <body>
     <div class="container-fluid">
@@ -40,11 +59,35 @@
       </div>
       <div class="row">
         <div class="col-md-8">
-          <ul class="nav nav-pills"></ul>
+          <ul class="nav nav-tabs nav-justified">
+            <li class="nav-item">
+              <a id="spAo" onclick="layoutAo()" style="background-color: #007bff; color:white" class="nav-link" href="#">Áo</a>
+            </li>
+            <li class="nav-item">
+              <a id="spQuan" class="nav-link" href="#">Quần</a>
+            </li>
+            <li class="nav-item">
+              <a id="spGiay" class="nav-link" href="#">Giày dép</a>
+            </li>
+            <li class="nav-item">
+              <a id="spTui" class="nav-link" href="#">Túi xách</a>
+            </li>
+            <li class="nav-item">
+              <a id="spDay" class="nav-link" href="#">Dây chuyền</a>
+            </li>
+            <li class="nav-item">
+              <a id="spToc" class="nav-link" href="#">Kiểu tóc</a>
+            </li>
+            <li class="nav-item">
+              <a id="spNen" class="nav-link" href="#">Nền</a>
+            </li>
+          </ul>
 
           <div class="well">
             <!-- Tab panes -->
-            <div class="tab-content"></div>
+            <div id="layoutSP" class="tab-content">
+             
+            </div>
           </div>
         </div>
         <div class="col-md-4">
@@ -57,7 +100,7 @@
             <div class="bikinibottom"></div>
             <div class="handbag"></div>
             <div class="feet"></div>
-            <div class="background"></div>
+            <div id="bgLayout" class="background"></div>
           </div>
         </div>
       </div>
