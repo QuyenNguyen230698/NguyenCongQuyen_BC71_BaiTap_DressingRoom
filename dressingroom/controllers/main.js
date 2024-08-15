@@ -22,7 +22,7 @@ function layoutAo() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Top Cloth 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="topCloth2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -33,7 +33,7 @@ function layoutAo() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Top Cloth 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="topCloth3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -44,7 +44,7 @@ function layoutAo() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Top Cloth 4</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="topCloth4()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -55,7 +55,7 @@ function layoutAo() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Top Cloth 5</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="topCloth5()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -66,7 +66,7 @@ function layoutAo() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Top Cloth 6</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="topCloth6()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -85,7 +85,7 @@ document.getElementById('spQuan').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Bot Cloth 1</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bot1()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -96,7 +96,7 @@ document.getElementById('spQuan').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Bot Cloth 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bot2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -107,7 +107,7 @@ document.getElementById('spQuan').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Bot Cloth 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bot3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -118,7 +118,7 @@ document.getElementById('spQuan').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Bot Cloth 4</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bot4()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -129,7 +129,7 @@ document.getElementById('spQuan').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Bot Cloth 5</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bot5()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -147,7 +147,7 @@ document.getElementById('spGiay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Shoes 1</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="shoes1()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -158,7 +158,7 @@ document.getElementById('spGiay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Shoes 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="shoes2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -169,7 +169,7 @@ document.getElementById('spGiay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Shoes 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="shoes3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -180,7 +180,7 @@ document.getElementById('spGiay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Shoes 4</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="shoes4()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -191,7 +191,7 @@ document.getElementById('spGiay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Shoes 5</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="shoes5()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -209,7 +209,7 @@ document.getElementById('spTui').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">handbags 1</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bags1()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -220,7 +220,7 @@ document.getElementById('spTui').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">handbags 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bags2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -231,7 +231,7 @@ document.getElementById('spTui').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">handbags 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="bags3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -249,7 +249,7 @@ document.getElementById('spDay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">necklaces 1</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="dayChuyen1()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -260,7 +260,7 @@ document.getElementById('spDay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">necklaces 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="dayChuyen2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -271,7 +271,7 @@ document.getElementById('spDay').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">necklaces 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="dayChuyen3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -289,7 +289,7 @@ document.getElementById('spToc').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">hairstyle 1</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="hair1()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -300,7 +300,7 @@ document.getElementById('spToc').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">hairstyle 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="hair2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -311,7 +311,7 @@ document.getElementById('spToc').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">hairstyle 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="hair3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
@@ -340,7 +340,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 2</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background2()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -351,7 +351,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 3</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background3()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -362,7 +362,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 4</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background4()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -373,7 +373,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 5</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background5()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -384,7 +384,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 6</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background6()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
     <div class="card">
@@ -395,7 +395,7 @@ document.getElementById('spNen').onclick = function() {
       />
       <div class="card-body text-center">
         <h4 class="card-text">Background 7</h4>
-        <button class="btn btn-primary">Thử đồ</button>
+        <button onclick="background7()" class="btn btn-primary">Thử đồ</button>
       </div>
     </div>
   </div>`;
