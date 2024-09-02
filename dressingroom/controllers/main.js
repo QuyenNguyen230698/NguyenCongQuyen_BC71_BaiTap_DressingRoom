@@ -6,7 +6,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth1_show.jpg"
+        src="../assets/images/clothes/topcloth1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -17,7 +17,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth2_show.jpg"
+        src="../assets/images/clothes/topcloth2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -28,7 +28,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth3_show.jpg"
+        src="../assets/images/clothes/topcloth3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -39,7 +39,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth4_show.jpg"
+        src="../assets/images/clothes/topcloth4_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -50,7 +50,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth5_show.jpg"
+        src="../assets/images/clothes/topcloth5_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -61,7 +61,7 @@ function layoutAo() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/topcloth6_show.jpg"
+        src="../assets/images/clothes/topcloth6_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -80,7 +80,7 @@ document.getElementById('spQuan').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/botcloth1_show.jpg"
+        src="../assets/images/clothes/botcloth1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -91,7 +91,7 @@ document.getElementById('spQuan').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/botcloth2_show.jpg"
+        src="../assets/images/clothes/botcloth2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -102,7 +102,7 @@ document.getElementById('spQuan').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/botcloth3_show.jpg"
+        src="../assets/images/clothes/botcloth3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -113,7 +113,7 @@ document.getElementById('spQuan').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/botcloth4_show.jpg"
+        src="../assets/images/clothes/botcloth4_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -124,7 +124,7 @@ document.getElementById('spQuan').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/clothes/botcloth5_show.jpg"
+        src="../assets/images/clothes/botcloth5_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -142,7 +142,7 @@ document.getElementById('spGiay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/shoes/shoes1_show.jpg"
+        src="../assets/images/shoes/shoes1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -153,7 +153,7 @@ document.getElementById('spGiay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/shoes/shoes2_show.jpg"
+        src="../assets/images/shoes/shoes2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -164,7 +164,7 @@ document.getElementById('spGiay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/shoes/shoes3_show.jpg"
+        src="../assets/images/shoes/shoes3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -175,7 +175,7 @@ document.getElementById('spGiay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/shoes/shoes4_show.jpg"
+        src="../assets/images/shoes/shoes4_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -186,7 +186,7 @@ document.getElementById('spGiay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/shoes/shoes5_show.jpg"
+        src="../assets/images/shoes/shoes5_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -204,7 +204,7 @@ document.getElementById('spTui').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/handbags/handbag1_show.jpg"
+        src="../assets/images/handbags/handbag1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -215,7 +215,7 @@ document.getElementById('spTui').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/handbags/handbag2_show.jpg"
+        src="../assets/images/handbags/handbag2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -226,7 +226,7 @@ document.getElementById('spTui').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/handbags/handbag3_show.jpg"
+        src="../assets/images/handbags/handbag3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -244,7 +244,7 @@ document.getElementById('spDay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/necklaces/necklace1_show.jpg"
+        src="../assets/images/necklaces/necklace1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -255,7 +255,7 @@ document.getElementById('spDay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/necklaces/necklace2_show.jpg"
+        src="../assets/images/necklaces/necklace2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -266,7 +266,7 @@ document.getElementById('spDay').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/necklaces/necklace3_show.jpg"
+        src="../assets/images/necklaces/necklace3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -284,7 +284,7 @@ document.getElementById('spToc').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/hairstyle/hairstyle1_show.jpg"
+        src="../assets/images/hairstyle/hairstyle1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -295,7 +295,7 @@ document.getElementById('spToc').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/hairstyle/hairstyle2_show.jpg"
+        src="../assets/images/hairstyle/hairstyle2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -306,7 +306,7 @@ document.getElementById('spToc').onclick = function() {
     <div class="card">
       <img
         style="width: 100%"
-        src="/dressingroom/assets/images/hairstyle/hairstyle3_show.jpg"
+        src="../assets/images/hairstyle/hairstyle3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -324,7 +324,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
         style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background1_show.jpg"
+        src="../assets/images/background/background1_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -335,7 +335,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background2_show.jpg"
+        src="../assets/images/background/background2_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -346,7 +346,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background3_show.jpg"
+        src="../assets/images/background/background3_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -357,7 +357,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background4_show.jpg"
+        src="../assets/images/background/background4_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -368,7 +368,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background5_show.jpg"
+        src="../assets/images/background/background5_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -379,7 +379,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background6_show.jpg"
+        src="../assets/images/background/background6_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
@@ -390,7 +390,7 @@ document.getElementById('spNen').onclick = function() {
     <div class="card">
       <img
       style="width: 176;height: 208px;"
-        src="/dressingroom/assets/images/background/background7_show.jpg"
+        src="../assets/images/background/background7_show.jpg"
         alt=""
       />
       <div class="card-body text-center">
